@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @jinsoft
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+| | |
+| :--: | :--: |
+| ![onedark] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsoft&hide=javascript,html,css,asp,Less,Classic+ASP&theme=onedark)](https://github.com/jinsoft)|
 
-<!---
-jinsoft/jinsoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[onedark]: https://github-readme-stats.vercel.app/api?username=jinsoft&show_icons=true&cache_seconds=86400&theme=onedark&hide_title=true
